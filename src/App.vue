@@ -1,5 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
+  <p>I am sorry but I run out of time!!</p>
   <HelloWorld msg="Hello Vue 3 + Vite" />
 </template>
 
